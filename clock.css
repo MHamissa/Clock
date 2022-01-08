@@ -1,0 +1,29 @@
+.main{
+ background-image:url('https://images.unsplash.com/photo-1531558506007-fe311a2f4729?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2t5c2NyYXBlcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80');
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ 
+
+}
+#heading{
+    font-size:4em;
+    font-family: sans-serif;
+    
+}
+img{
+   width: 250px;
+   height: 250px;
+   display: flex;
+   flex-direction: column;
+  }
+  #seconds{
+   margin-top:-250px;
+  }
+  #hours{
+   margin-top: -250px;
+  }
+  #minutes{
+   margin-top: -250px;
+  }
+  
